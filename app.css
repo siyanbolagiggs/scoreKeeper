@@ -1,0 +1,19 @@
+h1 {
+    display: inline;
+}
+
+/* img {
+    width: 25%
+} */
+
+#sec {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.pingimg {
+    width: 250px;
+    height: 250px;
+}
